@@ -1,0 +1,19 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "Back-end service that will help capture basic information about prospective students who come to enquire at Umuzi.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rokhuda/node.js.git"
+  },
+  "author": "Tshitimbi Rokhuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rokhuda/node.js/issues"
+  },
+  "homepage": "https://github.com/Rokhuda/node.js#readme"
+}
